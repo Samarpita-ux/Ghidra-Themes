@@ -86,7 +86,7 @@ color.custom.background = #020204
 color.custom.white = #ffffff
 
 color.custom.color1 = #53BF9D // globals, listing instructions, reserved words, fun arguments, globals in listing, some arrows, types
-color.custom.color2 = #F94C66 // registers, local variables
+color.custom.color2 = #B4CECE // registers, local variables
 color.custom.color3 = #BD4291 // function names, address values in listing, byte values, function parameters
 color.custom.color4 = #FFC54D // numbers, comments, numbers in listing
 
